@@ -1,7 +1,8 @@
 title: CURIOSA
-description: Un'editoriale indipendente per chi ha voglia di farsi domande.
+description: "Un'editoriale indipendente per chi ha voglia di farsi domande."
 lang: it
-url: "https://TUO-USERNAME.github.io"
-baseurl: ""
+url: "https://greta021d.github.io"
+baseurl: "/curiosa.github.io"
+
 markdown: kramdown
 permalink: /:categories/:year/:month/:day/:title/
